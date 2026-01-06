@@ -1,7 +1,7 @@
 # MQTT: FInal Video Starting Point <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
 
 ## Overview
-The code is explained in the YouTube video [MQTT - ESP32 Next-Level Library Using PubSubClient.h](https://youtu.be/Y-h9xaIT6jM](https://youtu.be/Y-h9xaIT6jM).
+The code is explained in the YouTube video [MQTT - ESP32 Next-Level Library Using PubSubClient.h](https://youtu.be/Y-h9xaIT6jM).
 
 
 👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on "All Things IoT": hardware, firmware, connectivity, cloud computing, and dev toolkit.
