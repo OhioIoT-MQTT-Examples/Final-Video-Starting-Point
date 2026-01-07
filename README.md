@@ -9,7 +9,7 @@ The code is explained in the YouTube video [MQTT - ESP32 Next-Level Library Usin
 
 ## Getting Started
 
-`git clone https://github.com/OhioIoT-MQTT-Examples/ESP32-Next-Level-Library`
+`git clone https://github.com/OhioIoT-MQTT-Examples/Final-Video-Starting-Point`
 
 
 ### PlatformIO
