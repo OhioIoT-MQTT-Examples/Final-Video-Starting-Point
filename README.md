@@ -1,4 +1,4 @@
-# MQTT: FInal Video Starting Point <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
+# MQTT: Final Video Starting Point <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
 
 ## Overview
 The code is explained in the YouTube video [MQTT - ESP32 Next-Level Library Using PubSubClient.h](https://youtu.be/dwZXmg1UIE0).
